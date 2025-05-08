@@ -13,8 +13,8 @@ This project aims to predict novel interactions between **long non-coding RNAs (
 
 | File Name | Description |
 |-----------|-------------|
-| `Method_1.ipynb` | GCN-based prediction pipeline using random features |
-| `Method_2.ipynb` | Enhanced pipeline using MetaPath2Vec + GCN |
+| `method1.ipynb` | GCN-based prediction pipeline using random features |
+| `method2.ipynb` | Enhanced pipeline using MetaPath2Vec + GCN |
 
 ---
 ## 📂 Dataset
