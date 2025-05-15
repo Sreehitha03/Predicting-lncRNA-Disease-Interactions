@@ -1,4 +1,4 @@
-# 🧬 Predicting lncRNA–Disease Interactions Using Graph Neural Networks
+## 🧬 Predicting lncRNA–Disease Interactions Using Graph Neural Networks
 
 This project aims to predict novel interactions between **long non-coding RNAs (lncRNAs)** and **diseases** using advanced **Graph Neural Networks (GNNs)**. Two distinct pipelines were developed and compared:
 
@@ -9,7 +9,7 @@ This project aims to predict novel interactions between **long non-coding RNAs (
 
 ---
 
-## 📁 Files
+### 📁 Files
 
 | File Name | Description |
 |-----------|-------------|
@@ -17,7 +17,7 @@ This project aims to predict novel interactions between **long non-coding RNAs (
 | `method2.ipynb` | Enhanced pipeline using MetaPath2Vec + GCN |
 
 ---
-## 📂 Dataset
+### 📂 Dataset
 
 This project utilizes a curated biological interaction dataset for training and evaluation. The dataset includes:
 
@@ -26,14 +26,14 @@ This project utilizes a curated biological interaction dataset for training and 
 
 - ---
 
-## 📊 Outputs
+### 📊 Outputs
 
 - 🧠 **Graph Visualizations:** Show both existing and newly predicted interactions within the heterogeneous network  
 - 🔍 **t-SNE Plots:** Visualize the clustering of node embeddings, illustrating how lncRNAs and diseases are grouped based on learned representations  
 
 ---
 
-## ✅ Conclusion
+### ✅ Conclusion
 
 Our experimental results clearly demonstrate that the **MetaPath2Vec + GCN** approach significantly outperforms the basic GCN pipeline.
 
